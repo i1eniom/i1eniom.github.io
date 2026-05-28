@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://i1eniom.github.io/sitemap.xml
